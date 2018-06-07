@@ -1,1 +1,3 @@
-https://github.com/chuymarin/doa17-static-page.git
+https://github.com/santiagoMorales/doa17-static-page.git
+https://github.com/santiagoMorales/doa17-infrastructure.git
+https://github.com/santiagoMorales/doa17-application.git
